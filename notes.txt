@@ -1,0 +1,3 @@
+Git əsas əmrləri: add, commit və push.
+Dəyişiklikləri hər zaman 'git status' ilə yoxla.
+Commit mesajlarını aydın və qısa yazmağa çalış.
