@@ -1,6 +1,8 @@
 git add – dəyişdirilən faylları commit üçün hazırlayır.
 git commit – dəyişiklikləri yadda saxlayır (lokalda).
 git push – dəyişiklikləri GitHub və ya uzaq repository-yə göndərir.
+feature-1
+git log-Commit tarixçəsinə baxmaq üçün istifadə olunur.
 git fetch: Yalnız uzaqdakı dəyişikliklərin siyahısını gətirir, onları fayllarına əlavə etmir. Bu, "görünməz" bir yoxlamadır.
-
 git pull: Uzaqdakı dəyişiklikləri həm gətirir, həm də dərhal fayllarınla birləşdirir. Bu, "aktiv" bir yeniləmədir.
+main
